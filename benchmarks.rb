@@ -126,4 +126,6 @@ end
 
 main()
 
-##pp Grit::GitRuby.cache_client.stats 
+##pp Grit::GitRuby.cache_client.stats i
+#my first comment
+#my second comment
